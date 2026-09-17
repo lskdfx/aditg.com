@@ -1,5 +1,5 @@
 {
-  "name": "lskdfx.github.io",
+  "name": "aditg.com",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -13,7 +13,6 @@
     "typescript": "~6.0.3",
     "vite": "^8.1.3"
   },
-
   "dependencies": {
     "@catppuccin/palette": "^1.8.0",
     "dreamland": "^0.1.3"
