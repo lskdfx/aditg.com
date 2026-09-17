@@ -1,5 +1,11 @@
 name = "aditg-com"
 compatibility_date = "2026-09-16"
+workers_dev = true
+preview_urls = true
+
+[[routes]]
+pattern = "aditg.com"
+custom_domain = true
 
 [assets]
 directory = "./dist"
